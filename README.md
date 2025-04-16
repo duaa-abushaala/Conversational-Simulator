@@ -1,6 +1,5 @@
 # Conversational Simulator: An Educational Mobile App
-
-This is the final year project for a B.Sc. Computer Science degree. The app is designed to help users improve conversational and social skills through interactive theory modules, daily challenges, quizzes, and gamified rewards.
+The app is designed to help users improve conversational and social skills through interactive theory modules, daily challenges, quizzes, and gamified rewards.
 
 ## Features
 
