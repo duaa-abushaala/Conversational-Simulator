@@ -57,5 +57,25 @@ fourth_year_project/
 - This app requires an internet connection to interact with Firebase services (auth, database). Offline use is not supported.
 -  A working `firebase.js` file is included and configured for this app. No setup is needed.
 
+<h2>App Images:</h2>
+
+<p align="center">
+Splash Screen and Login: <br/>
+<img src="https://imgur.com/2PmPyWK.png" height="80%" width="80%" alt="ConvSim Steps"/>
+<br />
+<br />
+Onboarding and Main Menu:  <br/>
+<img src="https://imgur.com/9yJWFMr.png" height="80%" width="80%" alt="ConvSim Steps"/>
+<br />
+<br />
+Lessons (Information, Quizzes and Reflections): <br/>
+<img src="https://imgur.com/muTuM71.png" height="80%" width="80%" alt="ConvSim Steps"/>
+<br />
+<br />
+Settings, Badges and Daily Challenges:  <br/>
+<img src="https://imgur.com/OzsXwhg.png" height="80%" width="80%" alt="ConvSim Steps"/>
+<br />
+<br />
+</p>
 
 ---
