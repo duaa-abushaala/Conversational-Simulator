@@ -65,7 +65,7 @@ Splash Screen and Login: <br/>
 <br />
 <br />
 Onboarding and Main Menu:  <br/>
-<img src="https://imgur.com/9yJWFMr.png" height="80%" width="80%" alt="ConvSim Steps"/>
+<img src="https://imgur.com/HfkelTX" height="80%" width="80%" alt="ConvSim Steps"/>
 <br />
 <br />
 Lessons (Information, Quizzes and Reflections): <br/>
@@ -73,7 +73,7 @@ Lessons (Information, Quizzes and Reflections): <br/>
 <br />
 <br />
 Settings, Badges and Daily Challenges:  <br/>
-<img src="https://imgur.com/OzsXwhg.png" height="80%" width="80%" alt="ConvSim Steps"/>
+<img src="https://imgur.com/OzsXwhg.png"height="80%" width="80%" alt="ConvSim Steps"/>
 <br />
 <br />
 </p>
