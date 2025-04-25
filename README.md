@@ -61,19 +61,19 @@ fourth_year_project/
 
 <p align="center">
 Splash Screen and Login: <br/>
-<img src="https://imgur.com/2PmPyWK.png" height="80%" width="80%" alt="ConvSim Steps"/>
+<img src="https://imgur.com/zpMXHb1.png" height="80%" width="80%" alt="ConvSim Steps"/>
 <br />
 <br />
 Onboarding and Main Menu:  <br/>
-<img src="https://imgur.com/HfkelTX" height="80%" width="80%" alt="ConvSim Steps"/>
+<img src="https://imgur.com/HfkelTX.png" height="80%" width="80%" alt="ConvSim Steps"/>
 <br />
 <br />
 Lessons (Information, Quizzes and Reflections): <br/>
-<img src="https://imgur.com/muTuM71.png" height="80%" width="80%" alt="ConvSim Steps"/>
+<img src="https://imgur.com/530cOse.png" height="80%" width="80%" alt="ConvSim Steps"/>
 <br />
 <br />
 Settings, Badges and Daily Challenges:  <br/>
-<img src="https://imgur.com/OzsXwhg.png"height="80%" width="80%" alt="ConvSim Steps"/>
+<img src="https://imgur.com/YjOxEvJ.png" height="80%" width="80%" alt="ConvSim Steps"/>
 <br />
 <br />
 </p>
